@@ -1,0 +1,14 @@
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.deps.json
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.runtimeconfig.json
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.dll
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/bin/Debug/net8.0/ConsoleApp.OutputDemo.pdb
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.AssemblyInfoInputs.cache
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.AssemblyInfo.cs
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.csproj.CoreCompileInputs.cache
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.dll
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/refint/ConsoleApp.OutputDemo.dll
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.pdb
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ConsoleApp.OutputDemo.genruntimeconfig.cache
+/Users/defogui/Documents/projects/dev/consoleApp.Demos/ConsoleApp.OutputDemo/obj/Debug/net8.0/ref/ConsoleApp.OutputDemo.dll
